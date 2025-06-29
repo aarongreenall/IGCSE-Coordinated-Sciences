@@ -1,0 +1,45 @@
+site_name: IGCSE-Coordinated-Sciences
+site_url: https://aarongreenall.github.io/IGCSE-Coordinated-Sciences/
+nav:
+  - Home: index.md
+  - Biology:
+    - B1.1 - Characteristics of Living Organisms: Biology/B1.1 - Characteristics of Living Organisms.md
+    - B1.2 - Cells and Microscopy: Biology/B1.2 - Cells and Microscopy.md
+    - B1.3 - Movement of Substances: Biology/B1.3 - Movement of Substances.md
+    - B1.4 - Biological Molecules: Biology/B1.4 - Biological Molecules.md
+    - B2.1 - Reproduction: Biology/B2.1 - Reproduction.md
+    - B2.2 - Inheritance: Biology/B2.2 - Inheritance.md
+    - B3.1 - Biological Systems: Biology/B3.1 - Biological Systems.md
+    - B3.2 - Respiration: Biology/B3.2 - Respiration.md
+    - B3.3 - Gas Exchange: Biology/B3.3 - Gas Exchange.md
+    - B3.4 - Transport: Biology/B3.4 - Transport.md
+    - B3.5 - Homeostasis: Biology/B3.5 - Homeostasis.md
+    - B3.6 - Coordination and Response: Biology/B3.6 - Coordination and Response.md
+    - B4.1 - Ecology: Biology/B4.1 - Ecology.md
+    - B4.2 - Human Influences: Biology/B4.2 - Human Influences.md
+  - Chemistry:
+    - C1.1 - The Particulate Nature of Matter: Chemistry/C1.1 - The Particulate Nature of Matter.md
+    - C1.2 - Experimental Techniques: Chemistry/C1.2 - Experimental Techniques.md
+    - C1.3 - Atoms, Elements and Compounds: Chemistry/C1.3 - Atoms, Elements and Compounds.md
+    - C2.1 - The Periodic Table: Chemistry/C2.1 - The Periodic Table.md
+    - C2.2 - Chemical Reactions: Chemistry/C2.2 - Chemical Reactions.md
+    - C2.3 - Acids, Bases and Salts: Chemistry/C2.3 - Acids, Bases and Salts.md
+    - C3.1 - Elements, Compounds and Mixtures: Chemistry/C3.1 - Elements, Compounds and Mixtures.md
+    - C3.2 - Air and Water: Chemistry/C3.2 - Air and Water.md
+    - C3.3 - Metals: Chemistry/C3.3 - Metals.md
+    - C3.4 - Fuels: Chemistry/C3.4 - Fuels.md
+    - C3.5 - Polymers: Chemistry/C3.5 - Polymers.md
+  - Physics:
+    - P1.1 - Motion: Physics/P1.1 - Motion.md
+    - P1.2 - Forces: Physics/P1.2 - Forces.md
+    - P1.3 - Energy: Physics/P1.3 - Energy.md
+    - P1.4 - Pressure: Physics/P1.4 - Pressure.md
+    - P2.1 - Thermal Physics: Physics/P2.1 - Thermal Physics.md
+    - P3.1 - Waves: Physics/P3.1 - Waves.md
+    - P3.2 - Light: Physics/P3.2 - Light.md
+    - P3.3 - Sound: Physics/P3.3 - Sound.md
+    - P4.1 - Electricity: Physics/P4.1 - Electricity.md
+    - P4.2 - Magnetism and Electromagnetism: Physics/P4.2 - Magnetism and Electromagnetism.md
+
+theme:
+  name: material
